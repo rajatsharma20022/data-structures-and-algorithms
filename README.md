@@ -43,15 +43,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0143-reorder-list) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
