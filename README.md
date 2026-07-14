@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -71,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
