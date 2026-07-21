@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0141-linked-list-cycle) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
