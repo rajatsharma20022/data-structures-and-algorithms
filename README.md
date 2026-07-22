@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
