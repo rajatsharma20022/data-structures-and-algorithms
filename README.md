@@ -142,4 +142,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
