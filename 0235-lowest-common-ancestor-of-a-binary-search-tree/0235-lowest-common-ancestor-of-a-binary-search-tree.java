@@ -10,22 +10,13 @@
 
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        TreeNode curr= root;
-        while(curr != null){
-            if(p.val > curr.val && q.val > curr.val){
-                curr=curr.right;
-            lowestCommonAncestor(curr,p,q);
-            }
-            else if(p.val < curr.val && q.val < curr.val)
-            {
-                curr=curr.left;
-            lowestCommonAncestor(curr,p,q);
-            }
-            else
-            return curr;
 
-        }
-        return null;
-        
+        if (p.val > root.val && q.val > root.val)
+            return lowestCommonAncestor(root.right, p, q);
+
+        if (p.val < root.val && q.val < root.val)
+            return lowestCommonAncestor(root.left, p, q);
+
+        return root;
     }
 }
