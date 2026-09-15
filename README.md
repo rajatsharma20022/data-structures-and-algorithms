@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
