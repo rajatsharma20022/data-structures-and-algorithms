@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0002-add-two-numbers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rajatsharma20022/data-structures-and-algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
